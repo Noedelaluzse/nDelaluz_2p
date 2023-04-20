@@ -1,0 +1,5 @@
+3,Camisa,250.5
+1,Zapatos,950.00
+3,Pantalón,610.25
+3,Playera,100.00
+2,Corbata,1000.00
